@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0; }
+
+body {
+  font-size: 16px;
+  font-family: "Karla", sans-serif;
+  background: #98a6bd; }
+
+.container1 {
+  background: #e5eff5; }
+
+.container2 {
+  background: #2ab2af; }
+
+.container3 {
+  background: #2ab2af; }
